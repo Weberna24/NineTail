@@ -1638,10 +1638,11 @@ body.active{
       justify-content: center;
     }
 
+
     .hero img{
-      width: 80%;
-      height: 85vh;
-      margin-top: 2.4rem;
+      width: 100%;
+      height: 100vh;
+      border-radius: 0rem;
     }
 
     .event-container{
